@@ -1,6 +1,6 @@
 <?php
 
-echo "Contacto";
+echo "Contacto es";
 
 /*
 
