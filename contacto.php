@@ -2,4 +2,10 @@
 
 echo "Contacto";
 
+/*
+
+comentario
+
+*/
+
 ?>
